@@ -1,0 +1,12 @@
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.AssemblyReference.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.BMS.resources
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Gmail.resources
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SERVER.resources

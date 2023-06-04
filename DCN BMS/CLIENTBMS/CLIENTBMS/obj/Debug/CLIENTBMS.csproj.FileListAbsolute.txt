@@ -1,0 +1,10 @@
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\bin\Debug\CLIENTBMS.exe.config
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\bin\Debug\CLIENTBMS.exe
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\bin\Debug\CLIENTBMS.pdb
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.csproj.AssemblyReference.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.Client.resources
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.Properties.Resources.resources
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.csproj.GenerateResource.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.csproj.CoreCompileInputs.cache
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.exe
+C:\Users\MASTER SYSTEM\OneDrive\Desktop\DCN BMS\CLIENTBMS\CLIENTBMS\obj\Debug\CLIENTBMS.pdb
